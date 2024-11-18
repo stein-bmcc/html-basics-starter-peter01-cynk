@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+    background-color: #00ffff;
+}
+p{
+    font-size: 2rem;
+    font-size: 50px;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
